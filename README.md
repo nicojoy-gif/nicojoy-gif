@@ -107,7 +107,7 @@ Currently at **Digits Designs & Brands**, previously **BilmaPay** and **Haxell S
 If you're building something and need a frontend engineer who ships clean, scalable, accessible UIs — let's talk.
 
 📧 [orjonyinyechi080@gmail.com](mailto:orjonyinyechi080@gmail.com)
-🌐 [joyportfoliosfsj5.vercel.app](https://joyportfoliosfsj5.vercel.app)
+🌐 [https://onyinyechi-orji.vercel.app](https://onyinyechi-orji.vercel.app)
 
 <div align="center">
 
