@@ -7,7 +7,7 @@
 
 <div align="center">
 
-# Orji Onyinyechi
+# Onyinyechi Orji
 ### Senior Frontend Engineer
 
 **React · Next.js · React Native · TypeScript**
@@ -15,7 +15,7 @@
 *Building production-grade interfaces for global audiences — from Port Harcourt, Nigeria 🇳🇬*
 *Open to remote roles worldwide 🌍*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://joyportfoliosfsj5.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://onyinyechi-orji.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:orjonyinyechi080@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 
