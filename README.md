@@ -25,7 +25,7 @@
 
 ## About me
 
-I'm a frontend engineer with **3+ years** of experience shipping real products used by real people — across fintech, edtech, e-commerce, logistics, and lifestyle platforms.
+I'm a frontend engineer with **5+ years** of experience shipping real products used by real people — across fintech, edtech, e-commerce, logistics, and lifestyle platforms.
 
 I don't just build UIs. I architect **component systems**, optimise for **performance and accessibility**, and collaborate with distributed teams to hit every sprint. My work has reduced UI bug rates by 30%, improved page load times on key user flows, and cut feature development time by 35% through reusable component libraries.
 
